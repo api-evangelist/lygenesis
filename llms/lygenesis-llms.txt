@@ -1,0 +1,39 @@
+# LyGenesis
+
+> LyGenesis is a Pittsburgh-based clinical-stage cell therapy company developing allogeneic
+> regenerative therapies that use a patient's own lymph nodes as bioreactors to grow functioning
+> ectopic organs. LyGenesis publishes no public API, no developer portal and no machine-readable
+> API contract.
+
+Generated: 2026-08-25
+Method: generated
+Source: apis.yml + live probes of https://www.lygenesis.com (API Evangelist enrichment pipeline)
+
+## API surface
+
+LyGenesis has **no public API surface**. As of 2026-08-25 the following were probed and all
+returned HTTP 404 from the Nuxt single-page application at www.lygenesis.com:
+`/openapi.json`, `/openapi.yaml`, `/swagger.json`, `/v1/openapi.json`, `/api-docs`, `/docs`,
+`/redoc`, `/rapidoc`, `/graphql`, `/api`, `/llms.txt`, `/robots.txt`, `/sitemap.xml`, and every
+`/.well-known/` path including `security.txt`, `openid-configuration`,
+`oauth-authorization-server`, `api-catalog`, `ai-plugin.json`, `agent-card.json` and `agent.json`.
+
+The subdomains `api.`, `developer.`, `developers.`, `docs.`, `portal.` and `app.lygenesis.com`
+do not resolve (NXDOMAIN). No `lygenesis` GitHub organization or repository was found, and no
+first-party package exists on npm or PyPI. There is no OpenAPI, AsyncAPI, GraphQL, gRPC/Protobuf,
+WSDL, MCP server or A2A agent card to describe.
+
+## Company
+
+- [About LyGenesis](https://www.lygenesis.com/about-us): Company, leadership and mission.
+- [Our Science](https://www.lygenesis.com/our-science): Lymph-node organogenesis platform.
+- [Pipeline](https://www.lygenesis.com/pipeline): Liver (Phase 2a), thymus, kidney and pancreas programs.
+- [Press Releases](https://www.lygenesis.com/media/press-releases/): Clinical and corporate news.
+- [Insights](https://www.lygenesis.com/media/insights/): Long-form articles about the technology.
+- [Contact](https://www.lygenesis.com/contact/): Company contact form.
+- [Privacy Policy](https://www.lygenesis.com/privacy-policy/): Website privacy policy.
+
+## Optional
+
+- [LinkedIn](https://www.linkedin.com/company/lygenesis/)
+- [X / Twitter](https://twitter.com/LyGenesis_Inc)
