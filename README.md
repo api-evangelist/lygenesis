@@ -64,5 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LyGenesis is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/lygenesis_stock/
+LyGenesis is a Pittsburgh-based clinical-stage cell therapy company developing allogeneic regenerative therapies that use a patient's own lymph nodes as bioreactors to grow functioning ectopic organs. Its lead program transplants donor hepatocytes into upper-abdominal lymph nodes via endoscopic ultrasound to treat end-stage liver disease and is in a Phase 2a clinical trial; preclinical proof-of-concept programs target thymus (aging), kidney (end-stage renal disease) and pancreas (Type 1 diabetes). LyGenesis is a laboratory and clinical-research organization, not a software vendor: it publishes no developer portal, no API documentation and no machine-readable API contract, and this profile records that absence rather than any API surface.
+
+**Areas:** Company · Biotechnology · Cell Therapy · Regenerative Medicine · Life Sciences · Healthcare · Clinical Trials · Organ Transplantation
+
+## LyGenesis on APIs.io
+
+Everything profiled for LyGenesis is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lygenesis/](https://apis.io/providers/lygenesis/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Lygenesis Domain Security](https://apis.io/security/lygenesis/lygenesis-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.lygenesis.com/)
+- [Support](https://www.lygenesis.com/contact/)
+- [Blog](https://www.lygenesis.com/media/insights/)
+- [Privacy policy](https://www.lygenesis.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 8.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 51.8 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.8** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lygenesis/](https://apis.io/providers/lygenesis/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for LyGenesis: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lygenesis/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
